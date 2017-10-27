@@ -5,13 +5,13 @@ this is a desc
 进行 编辑并保存  commit changes
  
 点击 
- pull request 
- --> new pull request 
- -->比较差异，看是否是你自己提交的文件内容；当确认时  点击
- --> create pull request (绿色按钮)
- --> 给你一个请求标题，并写注释；
- --> 确认提交 marge pull request 
- --> delete branch 删除该分支
+  pull request 
+  --> new pull request 
+  -->比较差异，看是否是你自己提交的文件内容；当确认时  点击
+  --> create pull request (绿色按钮)
+  --> 给你一个请求标题，并写注释；
+  --> 确认提交 marge pull request 
+  --> delete branch 删除该分支
  
  
 2017年10月27日10:19:07 
