@@ -8,7 +8,7 @@ this is a desc
 点击 
   pull request 
   --> new pull request 
-  -->比较差异，看是否是你自己提交的文件内容；当确认时  点击
+  -->比较差异，看是否是你自己提交的文件内容；*****当确认时  点击
   --> create pull request (绿色按钮)
   --> 给你一个请求标题，并写注释；
   --> 确认提交 marge pull request 
