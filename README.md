@@ -1,5 +1,6 @@
 # hello-word
 this is a desc
+创建 分支：readme-edits （如果是别人的项目 fork）
 选择 分支：readme-edits 
 点击 当前  README.md 中点击编辑按钮 “铅笔”
 进行 编辑并保存  commit changes
